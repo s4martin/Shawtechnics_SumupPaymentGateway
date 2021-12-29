@@ -18,7 +18,7 @@
                     <label>Title</label>
                 </field>
                 <field id="merchant_gateway_id" translate="label" type="text" sortOrder="25" showInDefault="1" showInWebsite="1" showInStore="0">
-                    <label>Merchant Gateway Key</label>
+                    <label>Merchant Gateway ID</label>
                 </field>
                 <field id="merchant_gateway_key" translate="label" type="obscure" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="0">
                     <label>Merchant Gateway Key</label>
