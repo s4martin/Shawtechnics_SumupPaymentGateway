@@ -13,7 +13,7 @@ define(
 
         return Component.extend({
             defaults: {
-                template: 'Magento_SumupPaymentGateway/payment/form',
+                template: 'Shawtechnics_SumupPaymentGateway/payment/form',
                 transactionResult: ''
             },
 

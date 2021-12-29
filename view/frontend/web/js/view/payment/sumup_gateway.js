@@ -17,7 +17,7 @@ define(
         rendererList.push(
             {
                 type: 'sumup_gateway',
-                component: 'Magento_SumupPaymentGateway/js/view/payment/method-renderer/sumup_gateway'
+                component: 'Shawtechnics_SumupPaymentGateway/js/view/payment/method-renderer/sumup_gateway'
             }
         );
         /** Add view logic here if needed */
